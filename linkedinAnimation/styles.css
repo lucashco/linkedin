@@ -46,7 +46,7 @@ body {
 .line {
   margin-top: 0.75rem;
   background-color: #c1c1c1;
-  height: 3px;
+  height: 2px;
   width: 140px;
   border-radius: 2px;
   overflow: hidden;
